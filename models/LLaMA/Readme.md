@@ -13,4 +13,3 @@ A minimal PyTorch implementation of a LLaMA-style language model, built from scr
 - [x] RoPE 
 - [x] FlashAttention
 - [x] Causal masking
-- [x] Weight tying
