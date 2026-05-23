@@ -18,7 +18,6 @@ def knn_predict(X_train, y_train, new_point, k):
   freq = Counter(top_k_labels)
   return max(freq, key=freq.get)
 
-
 X_train = [[1,1], [2,1], [1,2],   # class 0
            [8,8], [9,8], [8,9]]   # class 1
 y_train = [0, 0, 0, 1, 1, 1]
