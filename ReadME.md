@@ -10,11 +10,16 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 
 | | architecture | paper |
 |:---:|:---|:---|
-| [x] | transformer | [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762) |
+| [] | transformer | [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762) |
 | [x] | llama 2/3 | [Touvron et al. 2023](https://arxiv.org/abs/2302.13971) |
 | [ ] | gpt-2 | [Radford et al. 2019](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | [ ] | bert | [Devlin et al. 2018](https://arxiv.org/abs/1810.04805) |
-
+| [ ] | elmo | [Peters et al. (2018)](https://arxiv.org/abs/1802.05365) |
+| [ ] | t5 | [Raffel et al. (2019)](https://arxiv.org/abs/1910.10683) |  
+| [ ] | bloom | [BigScience Workshop et al. (2022)](https://arxiv.org/abs/2211.05100) |
+| [ ] | deepseek-v2 | [DeepSeek-AI et al. (2024)](https://arxiv.org/abs/2405.04434) |
+| [ ] | olmo 2 | [Team OLMo et al. (2025)](https://arxiv.org/abs/2501.00656) |
+| [ ] | qwen2 | [Yang et al. (2024)](https://arxiv.org/abs/2407.10671) |
 ---
 
 ### implementations
@@ -29,9 +34,9 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 | [ ] | flash attention | [Dao et al. 2022](https://arxiv.org/abs/2205.14135) |
 | [ ] | lora | [Hu et al. 2021](https://arxiv.org/abs/2106.09685) |
 | [ ] | qlora | [Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) |
+| [ ] | Adam Optimizer | [Kingma & Ba (2014)](https://arxiv.org/abs/1412.6980) |
 
 I write about everything I'm learning on [Substack](https://mehak1309.substack.com).
-
 
 *Built by [Mehak Singal](https://github.com/mehak1309)*
 
