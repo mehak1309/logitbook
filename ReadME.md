@@ -8,10 +8,7 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 
 ### architectures
 
-```markdown
-### architectures
-
-| | architecture | paper |
+| status | architecture | paper |
 |:---:|:---|:---|
 | [x] | transformer | [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762) |
 | [x] | llama 2/3 | [Touvron et al. 2023](https://arxiv.org/abs/2302.13971) |
@@ -29,7 +26,6 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 | [ ] | clip | [Radford et al. 2021](https://arxiv.org/abs/2103.00020) |
 | [ ] | dcgan | [Radford et al. 2015](https://arxiv.org/abs/1511.06434) |
 | [ ] | stylegan2 | [Karras et al. 2020](https://arxiv.org/abs/1912.04958) |
-```
 ---
 
 ### implementations
@@ -44,7 +40,7 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 | [ ] | flash attention | [Dao et al. 2022](https://arxiv.org/abs/2205.14135) |
 | [ ] | lora | [Hu et al. 2021](https://arxiv.org/abs/2106.09685) |
 | [ ] | qlora | [Dettmers et al. 2023](https://arxiv.org/abs/2305.14314) |
-| [ ] | Adam Optimizer | [Kingma & Ba (2014)](https://arxiv.org/abs/1412.6980) |
+| [ ] | adam ptimizer | [Kingma & Ba (2014)](https://arxiv.org/abs/1412.6980) |
 
 I write about everything I'm learning on [Substack](https://mehak1309.substack.com).
 
