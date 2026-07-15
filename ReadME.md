@@ -13,7 +13,7 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 | [x] | transformer | [Vaswani et al. 2017](https://arxiv.org/abs/1706.03762) |
 | [x] | llama 2/3 | [Touvron et al. 2023](https://arxiv.org/abs/2302.13971) |
 | [x] | bert | [Devlin et al. 2018](https://arxiv.org/abs/1810.04805) |
-| [ ] | mixtral (MoE) | [Jiang et al. 2024](https://arxiv.org/abs/2401.04088) |
+| [x] | mixtral (MoE) | [Jiang et al. 2024](https://arxiv.org/abs/2401.04088) |
 | [x] | resnet | [He et al. 2015](https://arxiv.org/abs/1512.03385) |
 | [x] | vision transformer (vit) | [Dosovitskiy et al. 2020](https://arxiv.org/abs/2010.11929) |
 | [ ] | clip | [Radford et al. 2021](https://arxiv.org/abs/2103.00020) |
