@@ -17,12 +17,12 @@ My personal repo for understanding modern LLMs from the inside out, covering arc
 | [x] | resnet | [He et al. 2015](https://arxiv.org/abs/1512.03385) |
 | [x] | vision transformer (vit) | [Dosovitskiy et al. 2020](https://arxiv.org/abs/2010.11929) |
 | [x] | clip | [Radford et al. 2021](https://arxiv.org/abs/2103.00020) |
+| [ ] | tacotron 2 | [Shen et al. 2018](https://arxiv.org/abs/1712.05884) |
+| [ ] | fastspeech | [Ren et al. 2019](https://arxiv.org/abs/1905.09263) |
 | [ ] | dcgan | [Radford et al. 2015](https://arxiv.org/abs/1511.06434) |
 | [ ] | stylegan2 | [Karras et al. 2020](https://arxiv.org/abs/1912.04958) |
 | [ ] | ddpm | [Ho et al. 2020](https://arxiv.org/abs/2006.11239) |
 | [ ] | stable diffusion | [Rombach et al. 2022](https://arxiv.org/abs/2112.10752) |
-| [ ] | tacotron 2 | [Shen et al. 2018](https://arxiv.org/abs/1712.05884) |
-| [ ] | fastspeech | [Ren et al. 2019](https://arxiv.org/abs/1905.09263) |
 ---
 
 ### implementations
